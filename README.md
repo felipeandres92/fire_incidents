@@ -1,7 +1,7 @@
 # fire_incidents
 # README - Cargar CSV a BigQuery con Apache Airflow
 
-Este proyecto contiene un DAG de Apache Airflow que carga un archivo CSV desde Google Cloud Storage a BigQuery. El cual fue configurado bajo ciertos supuestos.
+Este repositorio contiene un DAG de Apache Airflow que carga un archivo CSV desde Google Cloud Storage a BigQuery. Fue la manera más rápida y simple que se me ocurrió abordar el problema, y se alineaba con mi conocimiento previo. Por ello es que fue configurado bajo ciertos supuestos.
 
 ## Supuestos
 
