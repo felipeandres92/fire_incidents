@@ -29,3 +29,5 @@ Utilice la interfaz de Airflow para monitorear y gestionar la ejecución de su D
 ## Conclusión
 
 El problema se abordó de esta manera debido a su simplicidad y rapidez, además de estar alineado con el conocimiento previo disponible. La programación diaria del DAG asegura la actualización periódica de los datos, lo que resulta esencial para proyectos de análisis de datos en la nube. Siga estos pasos para lograr una gestión eficiente de sus datos.
+
+
